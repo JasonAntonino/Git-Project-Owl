@@ -1,1 +1,2 @@
 total area of shape is 10cm
+outline of shape is blue 
