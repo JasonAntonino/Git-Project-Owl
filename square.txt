@@ -5,4 +5,5 @@ Square is now blue
 |       |  _
 |_______| |_|
 total area of shape is 10 cm
+Outline of square is green
 Shape created by Saeed
