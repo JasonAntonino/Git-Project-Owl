@@ -1,2 +1,10 @@
 Square is now blue
+
+ _______
+|       |
+|       |
+|       |  _
+|_______| |_|
 total area of shape is 10 cm
+
+
