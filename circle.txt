@@ -1,3 +1,4 @@
 the circle is now blue
 total area of shape is 10cm
-outline of shape is blue
+Outline of shape is purple
+
