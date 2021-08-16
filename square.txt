@@ -1,1 +1,2 @@
-Square is now blue 
+Square is now blue
+total area of shape is 10 cm
