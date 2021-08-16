@@ -1,1 +1,2 @@
 triangle is green
+total area of shape is 10cm
