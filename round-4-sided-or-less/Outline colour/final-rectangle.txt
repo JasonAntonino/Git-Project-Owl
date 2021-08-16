@@ -1,0 +1,10 @@
+rectangle is pink 
+|---|
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |
+|---|
+Shape created by Pesh

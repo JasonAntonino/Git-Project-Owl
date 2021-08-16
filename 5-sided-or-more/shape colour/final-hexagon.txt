@@ -1,0 +1,20 @@
+hexagon is Pink:
+    _____
+           /     \
+          /       \
+    ,----<         >----.
+   /      \       /      \
+  /        \_____/        \
+  \        /     \        /
+   \      /       \      /
+    >----<         >----<
+   /      \       /      \
+  /        \_____/        \
+  \        /     \        /
+   \      /       \      /
+    `----<         >----'
+          \       /
+           \_____/
+ 
+outline of shape is blue 
+shape created by the Fluffy-Backed Tit-Babblers
