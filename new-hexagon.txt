@@ -1,4 +1,4 @@
-hexagon is green
+hexagon is Pink:
     _____
            /     \
           /       \
