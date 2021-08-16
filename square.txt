@@ -1,2 +1,3 @@
 Square is now blue
 total area of shape is 10 cm
+Outline of square is green
