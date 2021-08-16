@@ -1,1 +1,1 @@
-Triangle is red 
+triangle is green
