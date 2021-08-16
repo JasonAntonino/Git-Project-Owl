@@ -1,2 +1,1 @@
 hexagon is green
-outline of shape is blue 
